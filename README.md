@@ -1,5 +1,17 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+</div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/akshay-singh-22890b193/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="500" height="250"/>
+</div>
 <!--
 **akskshay007/akskshay007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
