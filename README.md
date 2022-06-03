@@ -1,24 +1,32 @@
-### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="150"/>
 </div>
-
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/akshay-singh-22890b193/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="500" height="250"/>
+
+### Hi there 👋
+<!-- <div align="center">
+  <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="400" height="200"/>
 </div>
+--- -->
+
+### About Me:
+Hi, This is Akshay, a CSE undergrad from India. I am a Programmer and a Data Science enthusiast. I also enjoy Competitive Programming and Problem Solving.
+- 🔭 I’m currently working on my problem solving skills on Leet.
+- 🌱 I’m currently learning about Transformers (NLP)
+ - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-singh-22890b193/)
+
 <!--
 **akskshay007/akskshay007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning about Transformers (NLP)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
