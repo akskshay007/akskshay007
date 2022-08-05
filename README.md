@@ -16,7 +16,7 @@
 --- -->
 
 ### About Me:
-Hi, This is Akshay, a CSE undergrad from India. I am a Programmer and a Data Science enthusiast. I also enjoy Competitive Programming and Problem Solving.
+Hi, This is Akshay, a Computer Science graduate from India. I am a Programmer and a Data Science enthusiast. I also enjoy Competitive Programming and Problem Solving.
 - 🔭 I’m currently working on my problem solving skills on Leet.
 - 🌱 I’m currently learning about Transformers (NLP)
  - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-singh-22890b193/)
